@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Docky - Nepeta</title>
-<link rel="stylesheet" href="https://repo.nepeta.me/assets/style.css?19" />
+<link rel="stylesheet" href="https://github.com/robmartin1987/Nepeta-Mirror-BOB/blob/master/style.css" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Docky" />
@@ -17,7 +17,7 @@
 <link rel="icon" type="image/png" href="https://repo.nepeta.me/favicon.png">
 </head>
 <body>
-<a class="logo" href="https://repo.nepeta.me/"><img class="logo" src="https://repo.nepeta.me/assets/nepeta.png" alt="Nepeta" /></a>
+<a class="logo" href="https://github.com/robmartin1987/Nepeta-Mirror-BOB/blob/master/nepeta.png"><img class="logo" src="https://github.com/robmartin1987/Nepeta-Mirror-BOB/blob/master/nepeta.png" alt="Nepeta" /></a>
 <div class="card">
 <div class="row buttons">
 <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.nepeta.me/&amp;package=me.nepeta.docky" class="button">Open in Cydia</a>
