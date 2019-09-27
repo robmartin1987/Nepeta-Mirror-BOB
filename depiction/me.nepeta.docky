@@ -12,8 +12,8 @@
 <meta name="description" content="Docky 0.1.0 by Nepeta . Requires latest version of Rocketbootstrap. Install the tweak first, then add this repo (https://rpetri.ch/repo/) and update all your packages. Dock customization tweak. Replac..." />
 <meta property="og:description" content="Docky 0.1.0 by Nepeta . Requires latest version of Rocketbootstrap. Install the tweak first, then add this repo (https://rpetri.ch/repo/) and update all your packages. Dock customization tweak. Replac..." />
 <meta property="og:site_name" content="Nepeta" />
-<meta name="twitter:image" content="https://repo.nepeta.me/icons/me.nepeta.docky.png" />
-<meta property="og:image" content="https://repo.nepeta.me/icons/me.nepeta.docky.png" />
+<meta name="twitter:image" content="https://github.com/robmartin1987/Nepeta-Mirror-BOB/blob/master/icons/me.nepeta.docky.png" />
+<meta property="og:image" content="https://github.com/robmartin1987/Nepeta-Mirror-BOB/blob/master/icons/me.nepeta.docky.png" />
 <link rel="icon" type="image/png" href="https://repo.nepeta.me/favicon.png">
 </head>
 <body>
@@ -24,7 +24,7 @@
 </div>
 <div class="row info">
 <div class="package">
-<span class="icon"><img src="https://repo.nepeta.me/icons/me.nepeta.docky.png" alt="Docky" /></span>
+<span class="icon"><img src="https://github.com/robmartin1987/Nepeta-Mirror-BOB/blob/master/icons/me.nepeta.docky.png" alt="Docky" /></span>
 <span class="name">Docky</span>
 <span class="version">0.1.0</span>
 <span class="author">Nepeta </span>
